@@ -1,6 +1,12 @@
 # Music To My Eyes
 Music To My Eyes is a full stack MERN dating app that allows singletons with a passion for music to find potential partners with a similar music tastes!
 
+You can access the site via [this link](https://musictomyeyes.herokuapp.com/)
+
+And you can access the GitHub Repo via [this link](https://github.com/kvtemadden/music-to-my-eyes/)
+
+![Screenshot of Music to My Eyes](https://lh4.googleusercontent.com/CILi--9HggMTbrCHfYM--DbXx4IBxOhFG1nftNxDp67DwlXWl6achc93LBBQCoAAIFIVXrDFHu1F0_8b5YiR=w1366-h625-rw)
+
 ## 
 
 ## Installation
