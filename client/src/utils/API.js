@@ -28,6 +28,7 @@ export default {
     },
     // Deletes the user with the given id
     deleteUser: function (id) {
+        localStorage.clear();
         return axios.delete("/user/" + id);
     },
     // Saves a user to the database
